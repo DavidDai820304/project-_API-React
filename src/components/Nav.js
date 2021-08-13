@@ -6,7 +6,7 @@ const Nav = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
         <div className="container-fluid">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="/project-_API-React">
             React & API Studying
           </a>
           <button
